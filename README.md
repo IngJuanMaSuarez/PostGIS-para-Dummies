@@ -2,7 +2,7 @@
 
 ## Curso para aprender PostGIS usando el lenguaje SQL desde cero y para principiantes
 
-![](./Imagenes/header.jpg)
+![](./Imagenes/header.png)
 
 ## Clases en vídeo
 
